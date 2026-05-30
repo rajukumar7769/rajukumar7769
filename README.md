@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm an AI Developer!I build smart web applications and intelligent tools by combining robust backend development with advanced machine learning models.
 
-##🚀 What I Do
+## 🚀 What I Do:
 **Backend Development:** Building scalable web applications using Python and Django.
 **AI Integration:** Training, fine-tuning, and deploying AI models into production.
 **Smart Tools:** Creating automated solutions and intelligent features for modern websites.
